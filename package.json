@@ -1,0 +1,26 @@
+{
+  "name": "node-learn",
+  "version": "1.0.0",
+  "description": "learning node js basics",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanUpdate/node-learn.git"
+  },
+  "author": "Ivan Mironov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanUpdate/node-learn/issues"
+  },
+  "homepage": "https://github.com/IvanUpdate/node-learn#readme",
+  "dependencies": {
+    "chalk": "^5.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
